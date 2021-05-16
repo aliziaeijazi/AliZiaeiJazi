@@ -1,5 +1,7 @@
 ### Hi there 👋
+🔭 I’m currently working on Html,Css,Js,Photoshop , Indesign
 
+🌱 I’m currently learning Reactjs , 
 <!--
 **aliziaeijazi/AliZiaeiJazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
