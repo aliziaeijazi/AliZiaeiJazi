@@ -2,6 +2,7 @@
 **I Am Ali Ziaei Jazi**
 -------------------
 i Am studing Computer Engineering at Isfahan University of technology
+
 🔭 I’m currently working on Html , Css, Js , Photoshop , Indesign
 
 🌱 I’m currently learning Reactjs
